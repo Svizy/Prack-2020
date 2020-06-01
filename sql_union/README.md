@@ -1,10 +1,10 @@
- **Lab: SQL injection UNION attack, determining the number of columns returned by the query **
+ Lab: SQL injection UNION attack, determining the number of columns returned by the query 
  
  Изменяем category, чтобы добавить дополнительный столбец, содержащий нулевое значение:'+UNION+SELECT+NULL,NULL--
  ![Image alt](https://github.com/Svizy/Prack-2020/blob/master/sql_union/lab_sql_un_1_1.PNG)
  ![Image alt](https://github.com/Svizy/Prack-2020/blob/master/sql_union/lab_sql_un_1_2.PNG)
  
-**Lab: SQL injection UNION attack, finding a column containing text**
+Lab: SQL injection UNION attack, finding a column containing text
  
  Меняем значение category '+UNION+SELECT+NULL-- , Происходит ошибка:
 ![Image alt](https://github.com/Svizy/Prack-2020/blob/master/sql_union/lab_sql_un_2_1.PNG)
