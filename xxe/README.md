@@ -1,9 +1,11 @@
 Lab: Exploiting XXE using external entities to retrieve files
 
+![Image alt](https://github.com/Svizy/Prack-2020/blob/master/xxe/lab_xxe_1_1.PNG)
 ![Image alt](https://github.com/Svizy/Prack-2020/blob/master/xxe/lab_xxe_1.PNG)
 
 Lab: Exploiting XXE to perform SSRF attacks
 
+![Image alt](https://github.com/Svizy/Prack-2020/blob/master/xxe/lab_xxe_2_1.PNG)
 ![Image alt](https://github.com/Svizy/Prack-2020/blob/master/xxe/lab_xxe_2.PNG)
 
 Lab: Exploiting XInclude to retrieve files
